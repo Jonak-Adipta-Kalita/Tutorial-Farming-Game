@@ -419,3 +419,5 @@ animated_sprite_2d = NodePath("../../AnimatedSprite2D")
 script = ExtResource("5_7vix2")
 player = NodePath("../..")
 animated_sprite_2d = NodePath("../../AnimatedSprite2D")
+
+[node name="Chopping" type="Node" parent="StateMachine" unique_id=1420625944]
